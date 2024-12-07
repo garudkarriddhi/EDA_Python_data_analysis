@@ -1,12 +1,12 @@
-# EDA_Python_data_analysis
+# Telecom_EDA_Python_data_analysis
 ## Project objective
-The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
+To analyse and explores the telecomm customer's / users churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
 
 ## Exploratory Data Analysis 
 The EDA is performed on the following data
-<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/customer_churn%20_data.csv'><\a='Telecom_churn_dataset'>
+<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/customer_churn%20_data.csv'>Telecom_churn_dataset</a>
 EDA is performed on jupyter by using python 
-<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/TCA.ipynb'><\a 'jupyter_eda_file'>
+<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/TCA.ipynb'>jupyter_eda_file</a>
 
 ## Key insights 
 ● Contract Type and Churn:
