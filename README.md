@@ -4,9 +4,9 @@ The analysis explores customer churn patterns, focusing on various factors such 
 
 ## Exploratory Data Analysis 
 The EDA is performed on the following data
-
+<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/customer_churn%20_data.csv'><\a='Telecom_churn_dataset'>
 EDA is performed on jupyter by using python 
-<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/TCA.ipynb'><\a jupyter_eda_file>
+<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/TCA.ipynb'><\a 'jupyter_eda_file'>
 
 ## Key insights 
 ● Contract Type and Churn:
