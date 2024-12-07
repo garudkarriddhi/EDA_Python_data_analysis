@@ -2,6 +2,12 @@
 ## Project objective
 The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
 
+## Exploratory Data Analysis 
+The EDA is performed on the following data
+
+EDA is performed on jupyter by using python 
+<a href='https://github.com/garudkarriddhi/EDA_Python_data_analysis/blob/main/TCA.ipynb'><\a jupyter_eda_file>
+
 ## Key insights 
 ● Contract Type and Churn:
 Customers on contracts exhibit the highest churn rate, with 42% of such customers likely to churn. In contrast, customers on one-year and two-year contracts have churn rates of 11% and 3%, respectively.
@@ -27,7 +33,7 @@ Implication: Special retention programs and targeted customer service for senior
 contracts, 3% for two-year contracts.
 Tenure: 50% churn in the first year, dropping to 15% after three years.
 
-Recommendations:
+## Recommendations:
 ● Promote Long-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn.
 ● Address Payment Method Concerns: Implement campaigns encouraging customers to switch from electronic checks to more reliable payment methods.
 ● Customer Engagement in Early Tenure: Focus on improving the customer experience within the first year, as churn is highest in this period.
